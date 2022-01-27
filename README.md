@@ -19,11 +19,21 @@ This project seeks to answer some questions about usage and how the experience c
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The project uses data taken from Kaggle from the first few months of 2019. It includes information on journeys including time taken, start and end points, whether the customer was a subscriber or a casual user, and the customer's gender. 
+
+January data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+01.csv
+February data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+02.csv
+March data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+03.csv
+April data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+04.csv
+May data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+05.csv
+
+We can use this data to solve a number of problems and make inferences about customer usage to make the experience better for them. 
+
+The main questions to be answered here are:
+
+1) Which stations are susceptible to running out of available bikes, or not having room for customers arriving? If we know this, we can manage this by moving bikes from "fuller" ones to "empty" ones 
+2) For the most popular start stations, what is the average travel time to other popular ending stations? This is information we could give the customer to allow them to plan ahead
+3) Are there routes that are significantly more favoured by men than women? If so, this information could be used to investigate possible issues with safety in the relevant areas
 
 
 ## Technologies Used
@@ -56,11 +66,7 @@ Provide various use cases and code examples here.
 
 `write-your-code-here`
 
-January data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+01.csv
-February data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+02.csv
-March data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+03.csv
-April data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+04.csv
-May data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+-+05.csv
+
 
 
 ## Project Status
