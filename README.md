@@ -45,41 +45,20 @@ The main questions to be answered here are:
 
 
 ## Usage
-Download or link to the 
+Download or link to the Cycling Data.ipynb file and run in a suitable environment such as Jupyter lab or Zeppelin. It requires no extra software.
 
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: Complete
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Data does not include date time of day of the journey- this would enhance management of bikes in stations as well as weekday/ weekend trends
+- I was not able to get the necessary packages to do a network map, so this would enhance the project somewhat
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
 
 
