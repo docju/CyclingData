@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Customer Usage of the San Francisco Bike Share scheme (SFMTA)
+The San Francisco Municipal Transport Authority runs a bike share scheme, whereby customers can pick up aa bike at a station, ride to another station, and leave the bike in a new station for a one-off fee or a subscription for a given period.
+
+This project seeks to answer some questions about usage and how the experience can be improved for users of the scheme.
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
