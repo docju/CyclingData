@@ -33,13 +33,13 @@ The main questions to be answered here are:
 
 1) Which stations are susceptible to running out of available bikes, or not having room for customers arriving? If we know this, we can manage this by moving bikes from "fuller" ones to "empty" ones 
 2) For the most popular start stations, what is the average travel time to other popular ending stations? This is information we could give the customer to allow them to plan ahead
-3) Are there routes that are significantly more favoured by men than women? If so, this information could be used to investigate possible issues with safety in the relevant areas
+3) Are there routes that are significantly more favoured by men than women? If so, this information could be used to investigate possible perceived issues with safety in the relevant areas
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python - version 3.0
+- Jupyter lab
+- Microsoft Excel
 
 
 ## Features
