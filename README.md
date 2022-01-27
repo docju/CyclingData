@@ -5,17 +5,12 @@ This project seeks to answer some questions about usage and how the experience c
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
+
 
 
 ## General Information
@@ -57,7 +52,7 @@ Project is: Complete
 
 Room for improvement:
 - Data does not include date time of day of the journey- this would enhance management of bikes in stations as well as weekday/ weekend trends
-- I was not able to get the necessary packages to do a network map, so this would enhance the project somewhat
+- I was not able to get the necessary packages to do a network map, so this would enhance the project by providing a visualisation of bike movements
 
 
 
