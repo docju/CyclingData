@@ -8,6 +8,7 @@ This project seeks to answer some questions about usage and how the experience c
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Usage](#usage)
+* [Files](#files)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 
@@ -25,10 +26,10 @@ May data: https://www.kaggle.com/jolasa/bay-area-bike-sharing-trips?select=2019+
 We can use this data to solve a number of problems and make inferences about customer usage to make the experience better for them. 
 
 The main questions to be answered here are:
-
-1) Which stations are susceptible to running out of available bikes, or not having room for customers arriving? If we know this, we can manage this by moving bikes from "fuller" ones to "empty" ones 
-2) For the most popular start stations, what is the average travel time to other popular ending stations? This is information we could give the customer to allow them to plan ahead
-3) Are there routes that are significantly more favoured by men than women? If so, this information could be used to investigate possible perceived issues with safety in the relevant areas
+1) Who is using the scheme?
+2) Which stations are susceptible to running out of available bikes, or not having room for customers arriving? If we know this, we can manage this by moving bikes from "fuller" ones to "empty" ones 
+3) For the most popular start stations, what is the average travel time to other popular ending stations? This is information we could give the customer to allow them to plan ahead and tell us if the 30 minute limit is unreasonable
+4) Are there routes that are significantly more favoured by men than women? If so, this information could be used to investigate possible perceived issues with safety in the relevant areas
 
 
 ## Technologies Used
@@ -43,9 +44,21 @@ The main questions to be answered here are:
 Download or link to the Cycling Data.ipynb file and run in a suitable environment such as Jupyter lab or Zeppelin. It requires no extra software.
 
 
+##Files
+There are 7 files in the repository: this README, the Cycling Data python notebook, and the five data files mentioned above.
+
 
 ## Project Status
 Project is: Complete
+
+## Summary of Results
+Statistics were collected for the gender and age of customers as well as their subscription status. 
+
+We showed which stations are prone to running out of bikes and which are prone to running out of spaces
+
+We showed that the 30 minute limit is reasonable for popular journeys and is not unfair with regards to gender
+
+We showed which routes had the biggest gender usage discrepancies
 
 
 ## Room for Improvement
@@ -54,6 +67,7 @@ Room for improvement:
 - Data does not include date time of day of the journey- this would enhance management of bikes in stations as well as weekday/ weekend trends
 - I was not able to get the necessary packages to do a network map, so this would enhance the project by providing a visualisation of bike movements
 
+## Sources of code
 
-
+Where code was not known, it was sourced from Stack Overflow
 
