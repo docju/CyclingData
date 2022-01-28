@@ -10,6 +10,7 @@ This project seeks to answer some questions about usage and how the experience c
 * [Usage](#usage)
 * [Files](#files)
 * [Project Status](#project-status)
+* [Summary of Results](#Summary of Results)
 * [Room for Improvement](#room-for-improvement)
 
 
@@ -50,6 +51,7 @@ There are 7 files in the repository: this README, the Cycling Data python notebo
 
 ## Project Status
 Project is: Complete
+
 
 ## Summary of Results
 Statistics were collected for the gender and age of customers as well as their subscription status. 
