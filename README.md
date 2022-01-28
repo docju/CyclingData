@@ -1,4 +1,4 @@
-# Customer Usage of the SFMTA San Francisco Bike Share scheme 
+# Customer Usage of the Baywheels Bike Share scheme 
 The San Francisco Municipal Transport Authority runs a bike share scheme, whereby customers can pick up aa bike at a station, ride to another station, and leave the bike in a new station for a one-off fee or a subscription for a given period.
 
 This project seeks to answer some questions about usage and how the experience can be improved for users of the scheme.
