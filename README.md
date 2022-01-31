@@ -10,7 +10,7 @@ This project seeks to answer some questions about usage and how the experience c
 * [Usage](#usage)
 * [Files](#files)
 * [Project Status](#project-status)
-* [Summary of Results](#Summary of Results)
+* [Summary of Results](#Summary-of-Results)
 * [Room for Improvement](#room-for-improvement)
 
 
